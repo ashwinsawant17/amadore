@@ -1,3 +1,3 @@
-## A Branching Path Topdown RPG
+# A Branching Path Topdown RPG
 
-# Written to work with a curses framework
+Written to work with a curses framework
